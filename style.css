@@ -102,6 +102,16 @@ section {
 
 .flexbox {
     display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+@media (max-width: 600px) {
+    .flexbox {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
 }
 
 .flexbox div {
@@ -118,7 +128,7 @@ img {
     height: 50%;
     border: solid 2px white;
     border-radius: 5px;
-    margin: 6px;
+    margin: 10px auto;
 }
 
 .links {
