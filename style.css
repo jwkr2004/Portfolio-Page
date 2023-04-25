@@ -4,7 +4,7 @@
 }
 
 .heading {
-    font-size: 2.2rem;
+    font-size: 2.2em;
     padding: 3%;
 }
 
@@ -45,12 +45,12 @@ nav div {
 
 .nav-button {
     position: relative;
-    font-size: 1.6rem;
+    font-size: 1.6em;
 }
 
 .nav-title {
     position: relative;
-    font-size: 2rem;
+    font-size: 2em;
     color: white;
     text-shadow: 1px 1px black;
 }
@@ -61,7 +61,7 @@ nav div {
     background-color:rgb(49, 49, 49);
     padding: 5px;
     border-radius: 10%;
-    font-size: 2rem;
+    font-size: 2em;
     margin-right: 2%;
 }
 
@@ -96,7 +96,7 @@ section {
 }
 
 .aboutDesc {
-    font-size: 1.3rem;
+    font-size: 1.2em;
     padding: 2%;
 }
 
@@ -120,7 +120,7 @@ section {
 
 .desc {
     margin: 4% 0;
-    font-size: 1.3rem;
+    font-size: 1.3em;
 }
 
 img {
@@ -133,7 +133,7 @@ img {
 
 .links {
     color: #59a6ff;
-    margin-right: 16px;
+    margin-right: 1.2em;
 }
 
 .links:link {
