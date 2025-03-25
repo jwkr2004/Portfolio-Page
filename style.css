@@ -69,6 +69,10 @@ nav div {
     margin-left: 2.5%;
 }
 
+.Title {
+    font-size: 50px;
+}
+
 section {
     display: flex;
     flex-flow: column;
@@ -88,7 +92,12 @@ section {
 .about {
     text-align: center;
     margin: 0 auto 6% auto;
-    padding: 4%;
+    padding: 1.5% 4% 4%;
+}
+
+.aboutTitle{
+    font-size: 30px;
+
 }
 
 .about p {
@@ -96,7 +105,7 @@ section {
 }
 
 .aboutDesc {
-    font-size: 1.2em;
+    font-size: 1.5em;
     padding: 2%;
 }
 
@@ -121,6 +130,10 @@ section {
 .desc {
     margin: 4% 0;
     font-size: 1.3em;
+}
+
+.portrait{
+    width: 30%;
 }
 
 img {
